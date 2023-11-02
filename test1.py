@@ -7,7 +7,7 @@ y= np.sin(x)
 
 plt.plot(x,y)
 plt.show()
-plt.plot(x,y**2)
+
 
 #%%
 
